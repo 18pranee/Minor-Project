@@ -1,0 +1,11 @@
+flask==3.0.0
+werkzeug==3.0.1
+tensorflow==2.15.0
+transformers==4.35.0
+keras==2.15.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+opencv-python-headless
